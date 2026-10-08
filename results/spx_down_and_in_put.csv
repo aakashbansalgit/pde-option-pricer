@@ -1,0 +1,7 @@
+,value
+vanilla_put_pde,128.1052
+down_out_put_pde,0.2237
+down_in_put_pde,127.8816
+down_in_put_closed_form,127.8814
+down_in_put_mc_2000_dates,127.2198
+mc_se,0.4694
