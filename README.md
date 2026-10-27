@@ -5,7 +5,7 @@
 Crank-Nicolson option pricing that converges at second order for European, American and barrier options, and agrees with exact quadrature to within 0.0025 for barriers checked on discrete dates.
 
 ![](figures/discrete_monitoring.png)
-A Crank-Nicolson solver for the Black-Scholes PDE that prices European, American and barrier options, and a study that checks every case against an independent answer. It started as my final project for Numerical Methods in Finance at the University of Illinois, a single notebook, which I rewrote as a package after finding a sign error in how its boundary values entered the solve.
+A Crank-Nicolson solver for the Black-Scholes PDE that prices European, American and barrier options, and a study that checks every case against an independent answer. It started as my final project for Numerical Methods in Finance at the University of Illinois, a single notebook, which I rewrote as a package.
 
 ## The solver
 
